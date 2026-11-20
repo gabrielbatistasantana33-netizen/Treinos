@@ -273,7 +273,7 @@ hr {
   #opcoes img {
     position: static;
   display: block;
-  width: 92%;
+  width: 100%;
   height: auto;
   margin: 2rem auto;
   }
